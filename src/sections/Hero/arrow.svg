@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="31px" viewBox="0 0 50 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26.49925,24.511 L45.38025,5.624 C46.20725,4.795 46.20725,3.452 45.38025,2.621 C44.55425,1.793 43.21125,1.793 42.38425,2.621 L25.00125,20.01 L7.61825,2.624 C6.79225,1.795 5.44925,1.795 4.62025,2.624 C3.79325,3.452 3.79325,4.797 4.62025,5.625 L23.50125,24.514 C24.31925,25.329 25.68325,25.329 26.49925,24.511" id="path-1"></path>
+        <filter x="-10.7%" y="-15.1%" width="126.2%" height="147.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.284943665   0 0 0 0 0.272407673   0 0 0 0 0.272407673  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fill-2">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

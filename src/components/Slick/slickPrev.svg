@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>slickPrev</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.8%" y="-4.2%" width="111.6%" height="111.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="slickPrev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" filter="url(#filter-1)" transform="translate(15.000000, 15.000000)">
+            <path d="M0.667,60 C0.667,26.863 27.529,0 60.667,0 C93.804,0 120.667,26.863 120.667,60 C120.667,93.137 93.804,120 60.667,120 C27.529,120 0.667,93.137 0.667,60" id="Fill-2" fill="#C8161E"></path>
+            <path d="M39.3008,62.3779 L69.2588,92.3259 C70.5728,93.6379 72.7028,93.6379 74.0218,92.3259 C75.3348,91.0159 75.3348,88.8859 74.0218,87.5739 L46.4398,60.0009 L74.0178,32.4299 C75.3318,31.1179 75.3318,28.9879 74.0178,27.6739 C72.7028,26.3619 70.5708,26.3619 69.2558,27.6739 L39.2968,57.6229 C38.0018,58.9199 38.0018,61.0829 39.3008,62.3779" id="Fill-4" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
